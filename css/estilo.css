@@ -1,0 +1,25 @@
+
+
+.buscar{
+    display: flex;
+    justify-content: center;
+flex-direction: column;
+}
+
+.buscador{
+    width: 450px;
+}
+
+.btnBuscar{
+    width: 100px;
+    background-color: rgb(206, 238, 227);
+    margin: 5px;
+    padding: 5px;
+}
+
+.btnBuscar{
+    width: 100px;
+    background-color: rgb(206, 238, 227);
+    margin: 5px;
+    padding: 5px;
+}
